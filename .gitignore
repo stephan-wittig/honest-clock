@@ -1,0 +1,12 @@
+node_modules/
+dist/
+yarn-error.log
+build/
+build_webpack/
+*.db
+
+#idea folder
+/.idea
+.idea/workspace.xml
+.DS_Store
+.fraud_detection/Database.db

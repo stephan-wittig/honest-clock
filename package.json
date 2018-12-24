@@ -1,0 +1,51 @@
+{
+  "name": "HonestClock",
+  "version": "1.0.0",
+  "author": "FS WI Kurs 2015",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --mode development --open --hot",
+    "build": "webpack --mode production"
+  },
+  "dependencies": {
+    "@material-ui/core": "^3.1.0",
+    "drizzle": "^1.2.2",
+    "drizzle-react": "^1.2.0",
+    "drizzle-react-components": "^1.2.0",
+    "file-loader": "^2.0.0",
+    "openzeppelin-solidity": "1.12.0",
+    "prop-types": "^15.6.2",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-redux": "^5.0.7",
+    "react-router-dom": "4.3.1",
+    "redux": "^4.0.0",
+    "scrypt": "^6.0.3",
+    "sqlite3": "^4.0.4",
+    "underscore": "latest",
+    "url-loader": "^1.1.1",
+    "web3": "^1.0.0-beta.37",
+    "web3-utils": "^1.0.0-beta.36"
+  },
+  "devDependencies": {
+    "ajv": "^6.5.5",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "chai": "^4.2.0",
+    "css-loader": "^1.0.0",
+    "html-webpack-plugin": "^3.2.0",
+    "mocha": "^5.2.0",
+    "redux-devtools-extension": "^2.13.5",
+    "style-loader": "^0.22.1",
+    "truffle-contract": "^3.0.6",
+    "webpack": "^4.16.5",
+    "webpack-cli": "^3.1.0",
+    "webpack-dev-server": "^3.1.5"
+  },
+  "engines": {
+    "yarn": "YARN NO LONGER USED - use npm instead."
+  }
+}
