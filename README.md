@@ -15,6 +15,7 @@ Dazu gehören...
 * Selina Meiser
 * Stephan Wittig (Github: stephan-wittig)
 * Tim Gabriel
+* Tim Weinert  
 ... und einige weitere
 
 
