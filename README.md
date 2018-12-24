@@ -7,13 +7,13 @@ Dazu gehören...
 * Leon L.
 * Lukas Permesang
 * Marc Sedino
-* Mattis Deisen ([Github: ](Skatam))
+* Mattis Deisen (Github: Skatam)
 * Nick Heinzel
 * Pascal Jahn
 * Philipp Meißner
 * Philipp Puderbach
 * Selina Meiser
-* Stephan Wittig
+* Stephan Wittig (Github: stephan-wittig)
 * Tim Gabriel
 ... und einige weitere
 
